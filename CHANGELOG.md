@@ -6,6 +6,8 @@ BoltX Kernel – Changelog v2.0
 • Added full SUSFS compatibility
 • Improved stability for gaming
 • Fixed random reboot issue
+• fixed Flicker for Garnet
+• fixed camera for  Infinix gt 20
 • Updated defconfig for better stability
 • Type Kernel   : GKI 2.0
 • Codename   : BoltX
