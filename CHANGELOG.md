@@ -2,7 +2,7 @@ BoltX-KoWSUxSF-V4
 BoltX-SukiSUxSF-V2
 BoltX Kernel – Changelog v2.0
 -----------------------------
-• Updated to Linux 5.10.247
+• Updated Upstream Linux 5.10.247
 • Added full SUSFS compatibility
 • Improved stability for gaming
 • Fixed random reboot issue
@@ -24,6 +24,6 @@ infinix GT20 infinix Note 50-4G
 infinix Hot50 infinix Note30
 and others use GKI 5.10.xxx
 • Sync commit : by @ramabondanp
-• Support my friend @kaminarich
+• Support Helper : @kaminarich
 • Builder : @BoltX_Official
-#kernel #BoltX #KernelSU #KowSU
+#kernel #BoltX #KernelSU #KowSU #SukiSU
